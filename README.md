@@ -2,15 +2,22 @@
 
 This is a Japanese localization pronoun mod for Imperator: Rome.
 
-## Publish Flow
+## status
 
-See [Ck3jpmod](https://github.com/matanki-saito/Ck3JpMod)
+2025/12/06
+Since Paradox (Pdx) has ended development of Imperator: Rome, this Japanese localization project has also been concluded.
 
-## Steam workshop
+**Note: 2025/12/06**
+To complete the translation, untranslated sections were supplemented using Gemini 2.5.
+Please refer to the commits for the supplemented items.
+
+## Install
+
+### Steam workshop
 
 [https://steamcommunity.com/sharedfiles/filedetails/?id=2407063698](https://steamcommunity.com/sharedfiles/filedetails/?id=2407063698)
 
-## Other install
+### Manual install
 
 1. Click the Green "Code" button in this page
 2. Click "Download ZIP" on modal
@@ -26,26 +33,6 @@ See [Ck3jpmod](https://github.com/matanki-saito/Ck3JpMod)
 
 [https://discord.gg/9qAd2Ct](https://discord.gg/9qAd2Ct)
 
-## Game wiki
-
-[https://imperator-rome.wiki/doku.php?id=start](https://imperator-rome.wiki/doku.php?id=start)
-
 ## Paradox Ironman mode
 
 No support
-
-## File size
-
-1.2MB
-
-## Auto update
-
-Yes: Every friday 2:00 (UTC)
-
-## Manual release
-
-See [Ck3jpmod](https://github.com/matanki-saito/Ck3JpMod)
-
-## How to use auto update program for other project
-
-See [Ck3jpmod](https://github.com/matanki-saito/Ck3JpMod)
